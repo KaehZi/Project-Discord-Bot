@@ -89,3 +89,6 @@ typings/
 
 # Node modules
 node_modules
+
+# config.json
+config.json
